@@ -2,7 +2,7 @@
   "name": "react-native-jssip-modified",
   "title": "React Native JsSIP",
   "description": "React Native fork of the Javascript SIP library",
-  "version": "3.7.6",
+  "version": "3.7.8",
   "author": "hysham <hyshamhashim@gmail.com>",
   "contributors": [
     "Iñaki Baz Castillo <ibc@aliax.net> (https://github.com/ibc)",
