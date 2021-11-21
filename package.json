@@ -1,9 +1,9 @@
 {
-  "name": "react-native-jssip",
+  "name": "react-native-jssip-modified",
   "title": "React Native JsSIP",
   "description": "React Native fork of the Javascript SIP library",
   "version": "3.7.6",
-  "author": "Radu Vulpescu <radu.vulpescu@gmail.com> (https://github.com/rvulpescu)",
+  "author": "hysham <hyshamhashim@gmail.com>",
   "contributors": [
     "Iñaki Baz Castillo <ibc@aliax.net> (https://github.com/ibc)",
     "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)"
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rvulpescu/react-native-jssip.git"
+    "url": "git+https://github.com/TechyonDigital/react-native-jssip.git"
   },
   "dependencies": {
     "@types/debug": "^4.1.5",
@@ -58,7 +58,7 @@
     "test": "gulp test",
     "prepublishOnly": "gulp babel"
   },
-  "homepage": "https://github.com/rvulpescu/react-native-jssip#readme",
+  "homepage": "https://github.com/TechyonDigital/react-native-jssip#readme",
   "directories": {
     "lib": "lib",
     "test": "test"
